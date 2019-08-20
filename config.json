@@ -1,0 +1,14 @@
+{
+  "mongo": {
+    "host": "ds211268.mlab.com",
+    "port": "11268",
+    "username": "heroku_5c3rjsq2",
+    "password": "av0rdj5d4odd9dit2uqlpectip",
+    "database": "heroku_5c3rjsq2",
+    "shard": false
+  },
+  "tokens": {
+    "secret": "380c031fb51566c4c10a262231cbab1066143d76251ab644cba723097e512613e90215ae",
+    "expires": 900
+  }
+}
